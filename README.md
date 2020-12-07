@@ -1,0 +1,1 @@
+A mock page of the google homepage to copy its display using HTML and CSS
